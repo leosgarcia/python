@@ -1,2 +1,2 @@
-# python
+# Python
 Códigos soltos em Python
